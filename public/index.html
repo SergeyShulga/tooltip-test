@@ -39,5 +39,19 @@
       To begin the development, run `npm start` or `yarn start`.
       To create a production bundle, use `npm run build` or `yarn build`.
     -->
+    <!--- Tooltip player -->
+    <script type='text/javascript'>
+      window.Tooltip||function(t,e){var o={
+        url:"https://cdn.tooltip.io/static/player.js",
+        key:"9f195e29-11e2-404c-8072-7294c9f6d626",
+        async:true
+      };
+        window.Tooltip={cs:[],_apiKey:o.key};for(
+                var r=["identify","goal","updateUserData","start","stop","refresh","show","hide","on"],
+                        i={},n=0;n<r.length;n++){var a=r[n];i[a]=function(t){return function(){var e=Array.prototype.slice.call(arguments);
+          window.Tooltip.cs.push({method:t,args:e})}}(a)}window.Tooltip.API=i;var n=t.createElement(e),s=t.getElementsByTagName(e)[0];
+        n.type="text/javascript",n.async=o.async,s.parentNode.insertBefore(n,s),n.src=o.url}(document,"script");
+    </script>
+    <!--- Tooltip player -->
   </body>
 </html>
