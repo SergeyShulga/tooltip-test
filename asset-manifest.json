@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/tooltip-test/static/css/main.34de6062.chunk.css",
+    "main.js": "/tooltip-test/static/js/main.94c7adf2.chunk.js",
+    "main.js.map": "/tooltip-test/static/js/main.94c7adf2.chunk.js.map",
+    "runtime-main.js": "/tooltip-test/static/js/runtime-main.e1fd1d1b.js",
+    "runtime-main.js.map": "/tooltip-test/static/js/runtime-main.e1fd1d1b.js.map",
+    "static/js/2.222d9409.chunk.js": "/tooltip-test/static/js/2.222d9409.chunk.js",
+    "static/js/2.222d9409.chunk.js.map": "/tooltip-test/static/js/2.222d9409.chunk.js.map",
+    "index.html": "/tooltip-test/index.html",
+    "precache-manifest.81343ef81f41fe432511e2a78c52a702.js": "/tooltip-test/precache-manifest.81343ef81f41fe432511e2a78c52a702.js",
+    "service-worker.js": "/tooltip-test/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/tooltip-test/static/css/main.34de6062.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e1fd1d1b.js",
+    "static/js/2.222d9409.chunk.js",
+    "static/css/main.34de6062.chunk.css",
+    "static/js/main.94c7adf2.chunk.js"
+  ]
+}
